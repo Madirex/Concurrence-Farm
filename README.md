@@ -1,4 +1,7 @@
 # concurrence-farm
+<p align="center">
+  <img src="https://i.imgur.com/IN0zCGg.png"/>
+</p>
 Programa en el que se utiliza concurrencia para simular el funcionamiento de una granja. Las gallinas ponen huevos en una granja. La clase Farm actúa como monitor.
 
 <p align="center">
