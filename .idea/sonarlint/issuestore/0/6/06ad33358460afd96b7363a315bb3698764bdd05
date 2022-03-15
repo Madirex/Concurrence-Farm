@@ -1,0 +1,9 @@
+
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Û´‹i8×À˜È÷/
+t
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S1068"7Remove this unused "maxDeliveryRecolect" private field.(†‹°Àüÿÿÿÿ8ÍÏÖÈ÷/
+a
+java:S1068"?Remove this unused "numPacksPerDeliveryRecolect" private field.(ïÒ“ëüÿÿÿÿ8ÍÏÖÈ÷/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ç¶•8Éó•ø/

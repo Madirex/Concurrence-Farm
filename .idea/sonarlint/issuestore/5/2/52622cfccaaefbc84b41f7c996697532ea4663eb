@@ -1,0 +1,8 @@
+
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(Û´‹i
+t
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R
+java:S1068"7Remove this unused "maxDeliveryRecolect" private field.(†‹°Àüÿÿÿÿ
+Z
+java:S1068"?Remove this unused "numPacksPerDeliveryRecolect" private field.(ïÒ“ëüÿÿÿÿ

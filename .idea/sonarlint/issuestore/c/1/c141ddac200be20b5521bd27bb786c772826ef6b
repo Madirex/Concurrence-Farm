@@ -1,0 +1,13 @@
+
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İƒÂÿÿÿÿÿ
+a
+java:S21474"DCombine this catch with the one at line 50, which has the same body.(ï­£Ä8À‚ãìø/
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Ø¾ƒÃÿÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ç¶•
+^
+java:S2095-"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(´ˆâë
