@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://i.imgur.com/IN0zCGg.png"/>
 </p>
-Programa en el que se utiliza concurrencia para simular el funcionamiento de una granja. Las gallinas ponen huevos en una granja. La clase Farm actúa como monitor.
+Programa en el que se utiliza concurrencia para simular el funcionamiento de una granja. Las gallinas ponen huevos en una granja.
+
 
 <p align="center">
   <img src="https://i.imgur.com/wOkIcDU.png"/>
